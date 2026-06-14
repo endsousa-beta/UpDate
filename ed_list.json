@@ -4,54 +4,54 @@
     "agua":    { "PAGAMENTOS": 35.94 },
     "luz":     { "PAGAMENTOS": 99.02 },
     "compras": { "PAGAMENTOS": 266.63 },
-    "wifi":    { "PAGAMENTOS": 80.00 },
-    "gas":     { "PAGAMENTOS": 00.00 }
+    "wifi":    { "PAGAMENTOS": 80 },
+    "gas":     { "PAGAMENTOS": 0 }
   },
   "FEVEREIRO": {
-    "agua":    { "PAGAMENTOS": 35.00 },
-    "luz":     { "PAGAMENTOS": 52.00 },
+    "agua":    { "PAGAMENTOS": 35 },
+    "luz":     { "PAGAMENTOS": 52 },
     "compras": { "PAGAMENTOS": 266.63 },
-    "wifi":    { "PAGAMENTOS": 80.00 },
-    "gas":     { "PAGAMENTOS": 127.00 }
+    "wifi":    { "PAGAMENTOS": 80 },
+    "gas":     { "PAGAMENTOS": 127 }
   },
   "MARÇO": {
     "agua":    { "PAGAMENTOS": 34.25 },
     "luz":     { "PAGAMENTOS": 47.46 },
-    "compras": { "PAGAMENTOS": 00.00 },
-    "wifi":    { "PAGAMENTOS": 80.00 },
-    "gas":     { "PAGAMENTOS": 00.00 }
+    "compras": { "PAGAMENTOS": 0 },
+    "wifi":    { "PAGAMENTOS": 80 },
+    "gas":     { "PAGAMENTOS": 0 }
   },
   "ABRIL": {
     "agua":    { "PAGAMENTOS": 34.19 },
     "luz":     { "PAGAMENTOS": 55.17 },
-    "compras": { "PAGAMENTOS": 380.00 },
-    "wifi":    { "PAGAMENTOS": 80.00 },
+    "compras": { "PAGAMENTOS": 380 },
+    "wifi":    { "PAGAMENTOS": 80 },
     "gas":     { "PAGAMENTOS": 63.50 }
   },
   "MAIO": {
     "agua":    { "PAGAMENTOS": 34.39 },
     "luz":     { "PAGAMENTOS": 54.34 },
-    "compras": { "PAGAMENTOS": 00.00 },
-    "wifi":    { "PAGAMENTOS": 80.00 },
-    "gas":     { "PAGAMENTOS": 128.00 }
+    "compras": { "PAGAMENTOS": 0 },
+    "wifi":    { "PAGAMENTOS": 80 },
+    "gas":     { "PAGAMENTOS": 128 }
   },
   "JUNHO": {
-    "agua":    { "PAGAMENTOS": 00.00 },
-    "luz":     { "PAGAMENTOS": 00.00 },
-    "compras": { "PAGAMENTOS": 380.00 },
-    "wifi":    { "PAGAMENTOS": 80.00 },
-    "gas":     { "PAGAMENTOS": 00.00 }
+    "agua":    { "PAGAMENTOS": 0 },
+    "luz":     { "PAGAMENTOS": 52.56 },
+    "compras": { "PAGAMENTOS": 380 },
+    "wifi":    { "PAGAMENTOS": 80 },
+    "gas":     { "PAGAMENTOS": 128 }
   }
 },
 
   "widget2": {
     "JANEIRO": {
-      "redmi": { "PAGAMENTOS": 80.00 },
-      "poco": { "PAGAMENTOS": 00.00 }
+      "redmi": { "PAGAMENTOS": 80 },
+      "poco": { "PAGAMENTOS": 0 }
     },
     "FEVEREIRO": {
-      "redmi": { "PAGAMENTOS": 80.00 },
-      "poco": { "PAGAMENTOS": 127.00 }
+      "redmi": { "PAGAMENTOS": 80 },
+      "poco": { "PAGAMENTOS": 127 }
     }
   }
 }
