@@ -1,5 +1,4 @@
 {
-  "widget1": {
     "JANEIRO": {
     "agua":    { "PAGAMENTOS": 35.94 },
     "luz":     { "PAGAMENTOS": 99.02 },
@@ -36,22 +35,10 @@
     "gas":     { "PAGAMENTOS": 128.00 }
   },
   "JUNHO": {
-    "agua":    { "PAGAMENTOS": 00.00 },
-    "luz":     { "PAGAMENTOS": 00.00 },
+    "agua":    { "PAGAMENTOS": 34.20 },
+    "luz":     { "PAGAMENTOS": 52.54 },
     "compras": { "PAGAMENTOS": 380.00 },
     "wifi":    { "PAGAMENTOS": 80.00 },
-    "gas":     { "PAGAMENTOS": 00.00 }
-  }
-},
-
-  "widget2": {
-    "JANEIRO": {
-      "redmi": { "PAGAMENTOS": 80.00 },
-      "poco": { "PAGAMENTOS": 00.00 }
-    },
-    "FEVEREIRO": {
-      "redmi": { "PAGAMENTOS": 80.00 },
-      "poco": { "PAGAMENTOS": 127.00 }
-    }
+    "gas":     { "PAGAMENTOS": 128.00 }
   }
 }
