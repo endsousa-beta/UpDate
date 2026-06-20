@@ -1,6 +1,10 @@
 {
   "JUNHO": {
-    "redmi":    { "PAGAMENTOS": 0 },
-    "poco":     { "PAGAMENTOS": 0 }
+    "redmi":    { "PAGAMENTOS": 150.00 },
+    "poco":     { "PAGAMENTOS": 50.00 }
+  },
+  "JULHO": {
+    "redmi":    { "PAGAMENTOS": 150.00 },
+    "poco":     { "PAGAMENTOS": 50.00 }
   }
 }
