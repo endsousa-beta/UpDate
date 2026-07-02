@@ -1,51 +1,20 @@
 {
-    "JANEIRO": {
+  "JANEIRO": {
     "agua":    { "PAGAMENTOS": 35.94 },
     "luz":     { "PAGAMENTOS": 99.02 },
     "compras": { "PAGAMENTOS": 266.63 },
     "wifi":    { "PAGAMENTOS": 80.00 },
-    "gas":     { "PAGAMENTOS": 00.00 }
+    "gas":     { "PAGAMENTOS": 0.0 },
+    "POCO X6": { "PAGAMENTOS": 0.0, "PARCELAS": 1 },
+    "REDMI 11":{ "PAGAMENTOS": 0.0, "PARCELAS": 1 }
   },
   "FEVEREIRO": {
     "agua":    { "PAGAMENTOS": 35.00 },
     "luz":     { "PAGAMENTOS": 52.00 },
     "compras": { "PAGAMENTOS": 266.63 },
     "wifi":    { "PAGAMENTOS": 80.00 },
-    "gas":     { "PAGAMENTOS": 127.00 }
-  },
-  "MARÇO": {
-    "agua":    { "PAGAMENTOS": 34.25 },
-    "luz":     { "PAGAMENTOS": 47.46 },
-    "compras": { "PAGAMENTOS": 00.00 },
-    "wifi":    { "PAGAMENTOS": 80.00 },
-    "gas":     { "PAGAMENTOS": 00.00 }
-  },
-  "ABRIL": {
-    "agua":    { "PAGAMENTOS": 34.19 },
-    "luz":     { "PAGAMENTOS": 55.17 },
-    "compras": { "PAGAMENTOS": 380.00 },
-    "wifi":    { "PAGAMENTOS": 80.00 },
-    "gas":     { "PAGAMENTOS": 63.50 }
-  },
-  "MAIO": {
-    "agua":    { "PAGAMENTOS": 34.39 },
-    "luz":     { "PAGAMENTOS": 54.34 },
-    "compras": { "PAGAMENTOS": 00.00 },
-    "wifi":    { "PAGAMENTOS": 80.00 },
-    "gas":     { "PAGAMENTOS": 128.00 }
-  },
-  "JUNHO": {
-    "agua":    { "PAGAMENTOS": 34.20 },
-    "luz":     { "PAGAMENTOS": 52.54 },
-    "compras": { "PAGAMENTOS": 380.00 },
-    "wifi":    { "PAGAMENTOS": 80.00 },
-    "gas":     { "PAGAMENTOS": 128.00 }
-  },
-  "JULHO": {
-    "agua":    { "PAGAMENTOS": 00.00 },
-    "luz":     { "PAGAMENTOS": 00.00 },
-    "compras": { "PAGAMENTOS": 430.31 },
-    "wifi":    { "PAGAMENTOS": 00.00 },
-    "gas":     { "PAGAMENTOS": 00.00 }
+    "gas":     { "PAGAMENTOS": 127.00 },
+    "POCO X6": { "PAGAMENTOS": 0.0, "PARCELAS": 1 },
+    "REDMI 11":{ "PAGAMENTOS": 0.0, "PARCELAS": 1 }
   }
 }
