@@ -1,10 +1,10 @@
 {
-  "JANEIRO": {
+    "JANEIRO": {
     "agua":    { "PAGAMENTOS": 35.94 },
     "luz":     { "PAGAMENTOS": 99.02 },
     "compras": { "PAGAMENTOS": 266.63 },
     "wifi":    { "PAGAMENTOS": 80.00 },
-    "gas":     { "PAGAMENTOS": 0.0 },
+    "gas":     { "PAGAMENTOS": 00.00 },
     "POCO X6": { "PAGAMENTOS": 0.0, "PARCELAS": null },
     "REDMI 11":{ "PAGAMENTOS": 0.0, "PARCELAS": null }
   },
@@ -14,25 +14,52 @@
     "compras": { "PAGAMENTOS": 266.63 },
     "wifi":    { "PAGAMENTOS": 80.00 },
     "gas":     { "PAGAMENTOS": 127.00 },
+    "POCO X6": { "PAGAMENTOS": 0.0, "PARCELAS": null },
+    "REDMI 11":{ "PAGAMENTOS": 0.0, "PARCELAS": null }
+  },
+  "MARÇO": {
+    "agua":    { "PAGAMENTOS": 34.25 },
+    "luz":     { "PAGAMENTOS": 47.46 },
+    "compras": { "PAGAMENTOS": 00.00 },
+    "wifi":    { "PAGAMENTOS": 80.00 },
+    "gas":     { "PAGAMENTOS": 00.00 },
+    "POCO X6": { "PAGAMENTOS": 0.0, "PARCELAS": null },
+    "REDMI 11":{ "PAGAMENTOS": 0.0, "PARCELAS": null }
+  },
+  "ABRIL": {
+    "agua":    { "PAGAMENTOS": 34.19 },
+    "luz":     { "PAGAMENTOS": 55.17 },
+    "compras": { "PAGAMENTOS": 380.00 },
+    "wifi":    { "PAGAMENTOS": 80.00 },
+    "gas":     { "PAGAMENTOS": 63.50 },
+    "POCO X6": { "PAGAMENTOS": 0.0, "PARCELAS": null },
+    "REDMI 11":{ "PAGAMENTOS": 0.0, "PARCELAS": null }
+  },
+  "MAIO": {
+    "agua":    { "PAGAMENTOS": 34.39 },
+    "luz":     { "PAGAMENTOS": 54.34 },
+    "compras": { "PAGAMENTOS": 00.00 },
+    "wifi":    { "PAGAMENTOS": 80.00 },
+    "gas":     { "PAGAMENTOS": 128.00 },
+    "POCO X6": { "PAGAMENTOS": 0.0, "PARCELAS": null },
+    "REDMI 11":{ "PAGAMENTOS": 0.0, "PARCELAS": null }
+  },
+  "JUNHO": {
+    "agua":    { "PAGAMENTOS": 34.20 },
+    "luz":     { "PAGAMENTOS": 52.54 },
+    "compras": { "PAGAMENTOS": 380.00 },
+    "wifi":    { "PAGAMENTOS": 80.00 },
+    "gas":     { "PAGAMENTOS": 128.00 },
     "POCO X6": { "PAGAMENTOS": 50.00, "PARCELAS": 1 },
     "REDMI 11":{ "PAGAMENTOS": 150.00, "PARCELAS": 1 }
   },
-  "MARÇO": {
-    "agua":    { "PAGAMENTOS": 35.00 },
-    "luz":     { "PAGAMENTOS": 52.00 },
-    "compras": { "PAGAMENTOS": 266.63 },
-    "wifi":    { "PAGAMENTOS": 80.00 },
-    "gas":     { "PAGAMENTOS": 127.00 },
+  "JULHO": {
+    "AGUA":    { "PAGAMENTOS": 00.00 },
+    "LUZ":     { "PAGAMENTOS": 00.00 },
+    "COMPRAS": { "PAGAMENTOS": 430.31 },
+    "WIFI":    { "PAGAMENTOS": 00.00 },
+    "GAS":     { "PAGAMENTOS": 00.00 },
     "POCO X6": { "PAGAMENTOS": 50.00, "PARCELAS": 2 },
     "REDMI 11":{ "PAGAMENTOS": 150.00, "PARCELAS": 2 }
-  },
-  "ABRIL": {
-    "agua":    { "PAGAMENTOS": 35.00 },
-    "luz":     { "PAGAMENTOS": 52.00 },
-    "compras": { "PAGAMENTOS": 266.63 },
-    "wifi":    { "PAGAMENTOS": 80.00 },
-    "gas":     { "PAGAMENTOS": 127.00 },
-    "POCO X6": { "PAGAMENTOS": 50.00, "PARCELAS": 3 },
-    "REDMI 11":{ "PAGAMENTOS": 150.00, "PARCELAS": 3 }
   }
 }
