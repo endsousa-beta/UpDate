@@ -54,10 +54,10 @@
     "REDMI 11":{ "PAGAMENTOS": 140.00, "PARCELAS": 1 }
   },
   "JULHO": {
-    "AGUA":    { "PAGAMENTOS": 00.00 },
+    "AGUA":    { "PAGAMENTOS": 54.69 },
     "LUZ":     { "PAGAMENTOS": 00.00 },
     "COMPRAS": { "PAGAMENTOS": 430.31 },
-    "WIFI":    { "PAGAMENTOS": 00.00 },
+    "WIFI":    { "PAGAMENTOS": 80.00 },
     "GAS":     { "PAGAMENTOS": 00.00 },
     "POCO X6": { "PAGAMENTOS": 50.00, "PARCELAS": 2 },
     "REDMI 11":{ "PAGAMENTOS": 00.00, "PARCELAS": null }
