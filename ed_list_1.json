@@ -63,12 +63,12 @@
     "REDMI 11":{ "PAGAMENTOS": 140.00, "PARCELAS": 2 }
   },
   "AGOSTO": {
-    "agua":    { "PAGAMENTOS": 35.13 },
-    "luz":     { "PAGAMENTOS": 46.78 },
-    "compras": { "PAGAMENTOS": 200.00 },
+    "agua":    { "PAGAMENTOS": 36.14 },
+    "luz":     { "PAGAMENTOS": 54.69 },
+    "compras": { "PAGAMENTOS": 430.31 },
     "wifi":    { "PAGAMENTOS": 80.00 },
     "gas":     { "PAGAMENTOS": 128.00 },
-    "POCO X6": { "PAGAMENTOS": 0.0, "PARCELAS": null },
-    "REDMI 11":{ "PAGAMENTOS": 0.0, "PARCELAS": null }
+    "POCO X6": { "PAGAMENTOS": 50.00, "PARCELAS": 2 },
+    "REDMI 11":{ "PAGAMENTOS": 140.00, "PARCELAS": 2 }
   }
 }
