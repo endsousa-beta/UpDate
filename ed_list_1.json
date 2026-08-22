@@ -70,5 +70,14 @@
     "gas":     { "PAGAMENTOS": 128.00 },
     "POCO X6": { "PAGAMENTOS": 0.0, "PARCELAS": null },
     "REDMI 11":{ "PAGAMENTOS": 0.0, "PARCELAS": null }
+  },
+  "SETEMBRO": {
+    "agua":    { "PAGAMENTOS": 0.00 },
+    "luz":     { "PAGAMENTOS": 0.00 },
+    "compras": { "PAGAMENTOS": 0.00 },
+    "wifi":    { "PAGAMENTOS": 0.00 },
+    "gas":     { "PAGAMENTOS": 0.00 },
+    "POCO X6": { "PAGAMENTOS": 0.00, "PARCELAS": null },
+    "REDMI 11":{ "PAGAMENTOS": 0.00, "PARCELAS": null}
   }
 }
