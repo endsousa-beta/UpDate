@@ -68,7 +68,7 @@
     "compras": { "PAGAMENTOS": 200.00 },
     "wifi":    { "PAGAMENTOS": 80.00 },
     "gas":     { "PAGAMENTOS": 128.00 },
-    "POCO X6": { "PAGAMENTOS": 0.0, "PARCELAS": null },
+    "POCO X6": { "PAGAMENTOS": 50.0, "PARCELAS": 3 },
     "REDMI 11":{ "PAGAMENTOS": 140.00, "PARCELAS": 3 }
   },
   "SETEMBRO": {
@@ -77,7 +77,7 @@
     "compras": { "PAGAMENTOS": 0.00 },
     "wifi":    { "PAGAMENTOS": 0.00 },
     "gas":     { "PAGAMENTOS": 0.00 },
-    "POCO X6": { "PAGAMENTOS": 0.00, "PARCELAS": null },
+    "POCO X6": { "PAGAMENTOS": 50.00, "PARCELAS": 4 },
     "REDMI 11":{ "PAGAMENTOS": 0.00, "PARCELAS": null}
   }
 }
