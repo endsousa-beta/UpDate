@@ -26,13 +26,5 @@
   "DEZEMBRO": {
     "redmi":    { "PAGAMENTOS": 00.00 },
     "poco":     { "PAGAMENTOS": 140.00 }
-  },
-  "JANEIRO": {
-    "redmi":    { "PAGAMENTOS": 00.00 },
-    "poco":     { "PAGAMENTOS": 140.00 }
-  },
-  "FEVEREIRO": {
-    "redmi":    { "PAGAMENTOS": 00.00 },
-    "poco":     { "PAGAMENTOS": 00.00 }
   }
 }
