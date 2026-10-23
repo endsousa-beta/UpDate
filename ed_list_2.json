@@ -13,6 +13,18 @@
   },
   "SETEMBRO": {
     "redmi":    { "PAGAMENTOS": 50.00 },
+    "poco":     { "PAGAMENTOS": 140.00 }
+  },
+  "OUTUBRO": {
+    "redmi":    { "PAGAMENTOS": 00.00 },
+    "poco":     { "PAGAMENTOS": 00.00 }
+  },
+  "NOVEMBRO": {
+    "redmi":    { "PAGAMENTOS": 00.00 },
+    "poco":     { "PAGAMENTOS": 00.00 }
+  },
+  "DEZEMBRO": {
+    "redmi":    { "PAGAMENTOS": 00.00 },
     "poco":     { "PAGAMENTOS": 00.00 }
   }
 }
