@@ -92,7 +92,7 @@
   "NOVEMBRO": {
     "agua":    { "PAGAMENTOS": 0.00 },
     "luz":     { "PAGAMENTOS": 86.59 },
-    "compras": { "PAGAMENTOS": 0.00 },
+    "compras": { "PAGAMENTOS": 400.00 },
     "wifi":    { "PAGAMENTOS": 80.00 },
     "gas":     { "PAGAMENTOS": 128.00 },
     "POCO X6": { "PAGAMENTOS": 0.00, "PARCELAS": null },
