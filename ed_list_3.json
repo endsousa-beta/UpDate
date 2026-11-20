@@ -1,4 +1,5 @@
 {
-  "Conta 1": { "recebido": 20, "restante": 2000, "cor": "FFFFFF" },
-  "Conta 2": { "recebido": 20, "restante": 2000, "cor": "FFFFFF" }
+  "1": { "recebido": 200, "restante": 2000, "cor": "00FFFF" },
+  "2": { "recebido": 300, "restante": 2000, "cor": "FF00FF" },
+  "3": { "recebido": 400, "restante": 2000, "cor": "FFFF00" }
 }
