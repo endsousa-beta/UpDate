@@ -90,7 +90,7 @@
     "REDMI 11":{ "PAGAMENTOS": 140.00, "PARCELAS": 5 }
   },
   "NOVEMBRO": {
-    "agua":    { "PAGAMENTOS": 0.00 },
+    "agua":    { "PAGAMENTOS": 35.17 },
     "luz":     { "PAGAMENTOS": 86.59 },
     "compras": { "PAGAMENTOS": 400.00 },
     "wifi":    { "PAGAMENTOS": 80.00 },
