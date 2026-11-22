@@ -1,5 +1,5 @@
 {
-  "1": { "recebido": 200, "restante": 3.500, "cor": "00FFFF" },
-  "2": { "recebido": 0, "restante": 301, "cor": "FF00FF" },
-  "3": { "recebido": 400, "restante": 2.394, "cor": "FFFF00" }
+  "1": { "recebido": 200, "restante": 3500, "cor": "00FFFF" },
+  "2": { "recebido": 200, "restante": 301, "cor": "FF00FF" },
+  "3": { "recebido": 400, "restante": 2394, "cor": "FFFF00" }
 }
